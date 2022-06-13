@@ -1,0 +1,101 @@
+[
+    {
+        "profil":{
+            "name":"Septian Dwi Risanggalih",
+            "gender":"Male",
+            "age":"23",
+            "education":"Politeknik Elektronika Negeri Surabaya",
+            "photo":"IMG_20191107_104535 (Large).jpg",
+            "address":"Ds. Sukowidi Nguntoronadi Magetan Jawa Timur",
+            "aboutme":"          I'm a new chalenger to learn about the programming. I'm Graduated From Politeknik Elektronika Negeri Surabaya with major electronic engineering. but I'm work as web developer thats is not forward with my major. the reason i learn about web programming, i want to get some job in other country but i can work remotely. that is my dream. and now I'm need more experience and more learn about web programming at my office."
+        },
+        "working":{
+            "job":"Frontend Web Developer",
+            "place":{
+                "name":"PT.Infosys Solusi Terpadu",
+                "address":"Yogyakarta",
+                "logo":"./logo/ist.svg",
+                "about":"This Company Provide a Developing web services for other company, that is frontend and backend"
+            }
+        },
+        "skills":{
+            "webskill":{
+                "react":{
+                    "name":"React JS",
+                    "icon":"./logo/react-1.svg"
+                },
+                "native":{
+                    "name":"React Native",
+                    "icon":"./logo/react-1.svg"
+                },
+                "js":{
+                    "name":"Javascript",
+                    "icon":"./logo/Js.svg"
+                },
+                "node":{
+                    "name":"Node JS",
+                    "icon":"./logo/Node.svg" 
+                },
+                "html":{
+                    "name":"HTML & CSS",
+                    "icon":"./logo/html.svg"
+                },
+                "python":{
+                    "name":"Python",
+                    "icon":"./logo/python.svg"
+                }
+            },
+            "strength":{
+                "strength1":"Organized",
+                "strength2":"Team-oriented",
+                "strength3":"Action-oriented "
+            },
+            "weakness":{
+                "weakness1":"I sometimes lack confidence",
+                "weakness2":"I could use more experience in Team leadership",
+                "weakness3":"I have been uncomfortable working with ambiguity"
+            }
+        },
+        "portofolio":{
+            "literature":{
+                "name":"Literature",
+                "gambar1":"./image/porto/literatur 1.png",
+                "des":"This Website for you to upload your writing, and you can search another literature from another writer",
+                "tech":{
+                    "tech1":"React Js",
+                    "tech2":"Node Js"
+                }
+            },
+            "dumbplay":{
+                "name":"Dumbplay",
+                "gambar1":"./image/porto/dumplay.png",
+                "des":"This Website helping you to hear about your favorite music, and you can add your favorite music to your playlist",
+                "tech":{
+                    "tech1":"React Js",
+                    "tech2":"Node Js"
+                }
+            },
+            "holyways":{
+                "name":"Holyways",
+                "gambar1":"./image/porto/holyways.png",
+                "des":"This website used to help raise funds for natural disasters at another place, your donate its more helpfull",
+                "tech":{
+                    "tech1":"React Js",
+                    "tech2":"Node Js"
+                }
+            },
+            "calculator":{
+                "name":"Calculator",
+                "gambar1":"./image/porto/calculator.png",
+                "des":"this is calculator app thats help you to solve math operations",
+                "tech":"React Native"
+            },
+            "todolist":{
+                "name":"Todo List",
+                "gambar1":"./image/porto/todolist.png",
+                "des":"this is App for helping you to manage your activity today or tommorrow",
+                "tech":"React Native"
+            } 
+        }
+    }
+]

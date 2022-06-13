@@ -1,0 +1,5 @@
+.nav:hover{
+    background-color: rgb(250, 248, 232) !important;
+    color: black !important;
+    transition: all .4s ease-in-out;
+}
