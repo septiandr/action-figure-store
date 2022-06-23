@@ -33,7 +33,6 @@ function App() {
             <img src={luffy} className='photo' style={{background:'#eaeaea',objectFit:'cover'}} alt='photo'/>
           </Grid>
         </Grid>
-        <div>jancuk</div>
       </Container>
     </>
   );
