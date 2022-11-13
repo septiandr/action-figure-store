@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Tanjiro - Kimetsu No Yaiba",
+            "price": 150000,
+            "description": "Torem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmo tempor incididunt ut labore et dolore magna",
+            "image": "bag_01.png"
+        },
+        {
+            "id": 2,
+            "name": "Monkey D Luffy - One Piece",
+            "price": 200000,
+            "description": "Torem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmo tempor incididunt ut labore et dolore magna",
+            "image": "bag_02.png"
+        },
+        {
+            "id": 3,
+            "name": "Roronoa Zoro - One Piece",
+            "price": 170000,
+            "description": "Torem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmo tempor incididunt ut labore et dolore magna",
+            "image": "bag_03.png"
+        },
+        {
+            "id": 4,
+            "name": "Trafalgar D Water Law - One Piece",
+            "price": 150000,
+            "description": "Torem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmo tempor incididunt ut labore et dolore magna",
+            "image": "bag_04.png"
+        },
+        {
+            "id": 5,
+            "name": "Sabo - One Piece",
+            "price": 150000,
+            "description": "Torem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmo tempor incididunt ut labore et dolore magna",
+            "image": "bag_05.png"
+        },
+        {
+            "id": 6,
+            "name": "Eustass Captain Kid - One Piece",
+            "price": 160000,
+            "description": "Torem ipsum dolor sit amet, consectetur adipisicing elitsed do eiusmo tempor incididunt ut labore et dolore magna",
+            "image": "bag_06.png"
+        }
+    ]
+}
